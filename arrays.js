@@ -29,4 +29,3 @@ function destructivelyAddElementToEndOfArray(array1,add){
   array.push(add)
   return array1;
 }
-
