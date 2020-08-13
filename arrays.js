@@ -1,4 +1,4 @@
-var chocolateBars=[snickers,hundred grand,kitkat,skittles];
+var chocolateBars=["snickers","hundred grand","kitkat","skittles"];
 
 var array1=new array();
 var array2=new array();
