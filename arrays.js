@@ -17,7 +17,7 @@ return array1;
 
 function addElementToEndOfArray(array1,add) {
 
-  var newArray1=[add,...array1]
+  var newArray1=[...array1,add]
   return newArray1;
 }
 
